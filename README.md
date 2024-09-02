@@ -14,6 +14,8 @@ Calculate the polynomial trend values using least square method
 
 End the program
 ### PROGRAM:
+## DEVELOPED BY : Kishore S
+## REG NO : 212222240050
 ```
 import pandas as pd
 import numpy as np
@@ -76,4 +78,4 @@ A - LINEAR TREND ESTIMATION : y = 0.09 * x + -121.90
 B- POLYNOMIAL TREND ESTIMATION : y = 0.00 * x^2 + -0.12 * x + 59.29
 
 ### RESULT:
-Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
+The python program for linear and Polynomial Trend Estiamtion has been executed successfully.
